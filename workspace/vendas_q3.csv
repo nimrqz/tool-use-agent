@@ -1,0 +1,10 @@
+produto,mes,unidades,preco_unitario
+Plano Basic,julho,120,49.90
+Plano Basic,agosto,135,49.90
+Plano Basic,setembro,150,49.90
+Plano Pro,julho,60,129.00
+Plano Pro,agosto,72,129.00
+Plano Pro,setembro,85,129.00
+Plano Enterprise,julho,8,899.00
+Plano Enterprise,agosto,11,899.00
+Plano Enterprise,setembro,14,899.00
